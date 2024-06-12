@@ -1,7 +1,8 @@
 .price .items {
-  padding: 50px;
-  margin: 20px;
+  padding: 20px;
+  margin: 30px;
   text-align: center;
+  width: 300px;
 }
 .price h1 {
   font-size: 50px;
@@ -16,33 +17,6 @@
 .price p {
   color: grey;
   margin: 40px 0;
-}
-
-.faq .container {
-  max-width: 70%;
-  border-radius: 5px;
-}
-.faq .box {
-  background-color: #fff;
-  margin-bottom: 20px;
-}
-.faq button {
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  padding: 15px 20px;
-}
-.faq h2 {
-  font-weight: 500;
-}
-.faq p {
-  padding: 20px;
-}
-.faq .accordion:hover {
-  background-color: rgb(4, 41, 110);
-  color: #fff;
 }
 
 
